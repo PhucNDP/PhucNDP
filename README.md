@@ -1,13 +1,9 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Minh Tien</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center"> </h3>
 </p>
 
-
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
-
-<br />
 
 ## 📫 How to reach me:
 
@@ -17,7 +13,7 @@
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com/phuc.nguyendinh.77920" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/TienNHM" alt="Github">
